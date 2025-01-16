@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: j39wptw5y-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/j39wptw5y-java-springboot
